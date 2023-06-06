@@ -1,4 +1,4 @@
-![banner](typal-academy-banner.png)
+![banner](profile/typal-academy-banner.png)
 
 # Typal Academy
 
