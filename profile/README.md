@@ -1,4 +1,4 @@
-![banner](profile/typal-academy-banner.png)
+![banner](typal-academy-banner.png)
 
 _Research at the intersection of big data, optimization, and explainability_
 
